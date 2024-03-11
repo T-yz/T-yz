@@ -16,7 +16,6 @@ I'm Tayzar, a passionate Coding student based in the UK. I love exploring new te
 - GitHub Repository: [[Link to the GitHub repository]](https://github.com/T-yz/CoGrammar)
 
 ## Contact Me
-- Email: [Tayzar@hotmail.com]
 - LinkedIn: [[LinkedIn Profile Link](https://www.linkedin.com/in/tayzar-haaris-a6b8a5146/)]
 
 ## Let's Connect!
