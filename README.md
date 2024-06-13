@@ -17,6 +17,7 @@ I'm Tayzar, a passionate Coding student based in the UK. I love exploring new te
 - Description: another simple code project that has a list of cafe items and then puts it through an equation to find the total value of all items
 ### Project 3: [Holiday]
 - Description: A bit more in-depth; this app works as a travel planner and helps the user take into acoount all of the outgoing costs and gives a final total amount.
+
 - GitHub Repository: [[[Link to the GitHub repository]](https://github.com/T-yz/Portfolio/tree/main)]
 
 
