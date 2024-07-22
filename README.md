@@ -8,7 +8,7 @@ I'm Tayzar, a passionate Coding student based in the UK. I love exploring new te
 - Programming Languages: Python, JavaScript, HTML/CSS
 - Frameworks/Libraries: React.js, Flask, Bootstrap
 - Tools: Git, VS Code, Figma
-- Other Skills: Project Management, Digital Marketing, Customer Service
+- Other Skills: Project Management, Digital Marketing, Customer Service, Game Design
 
 ## Projects
 ### Project 1: [test_app]
