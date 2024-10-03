@@ -2,13 +2,13 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm Tayzar, a passionate Coding student based in the UK. I love exploring new technologies and building cool projects.
+I'm Tayzar, a passionate tech focused individual based in the UK. I love exploring new technologies and building cool projects.
 
 ## Skills
-- Programming Languages: Python, JavaScript, HTML/CSS, C#
+- Programming Languages: Python, JavaScript, HTML/CSS, C#,
 - Frameworks/Libraries: React.js, Flask, Bootstrap
-- Tools: Git, VS Code, Figma
-- Other Skills: Project Management, Digital Marketing, Customer Service, Game Design and Cyber security
+- Tools: Git, VS Code, Figma, Bubble.io
+- Other Skills: Project Management, Digital Marketing, Customer Service, Game Design, UI/UX design and Cyber security
 
 ## Projects
 ### Project 1: [test_app]
