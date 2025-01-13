@@ -19,7 +19,7 @@ I'm Tayzar, a passionate tech focused individual based in the UK. I love explori
 - Description: A bit more in-depth; this app works as a travel planner and helps the user take into acoount all of the outgoing costs and gives a final total amount.
 
 
-## UI/UX design, Game development and more in the below link
+## UI/UX design, Game development and more below
 - GitHub Repository: [[[Link to the GitHub repository]](https://github.com/T-yz/Portfolio/tree/main)]
 
 
