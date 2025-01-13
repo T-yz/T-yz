@@ -1,8 +1,8 @@
 ### Hi there 👋
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!
 
 ## About Me
-I'm Tayzar, a passionate tech focused individual based in the UK. I love exploring new technologies and building cool projects.
+I'm Tayzar, a passionate tech focused individual based in the UK. I love exploring new technologies and building cool projects!
 
 ## Skills
 - Programming Languages: Python, JavaScript, HTML/CSS, C#,
@@ -10,7 +10,7 @@ I'm Tayzar, a passionate tech focused individual based in the UK. I love explori
 - Tools: Git, VS Code, Figma, Bubble.io
 - Other Skills: Project Management, Digital Marketing, Customer Service, Game Design, UI/UX design and Cyber security
 
-## Projects
+## Python Projects
 ### Project 1: [test_app]
 - Description: Basic code that playtests how to correctly use github and operate it. Uses python and is simple to understand
 ### Project 2: [Cafe]
@@ -18,6 +18,8 @@ I'm Tayzar, a passionate tech focused individual based in the UK. I love explori
 ### Project 3: [Holiday]
 - Description: A bit more in-depth; this app works as a travel planner and helps the user take into acoount all of the outgoing costs and gives a final total amount.
 
+
+## UI/UX design, Game development and more in the below link
 - GitHub Repository: [[[Link to the GitHub repository]](https://github.com/T-yz/Portfolio/tree/main)]
 
 
